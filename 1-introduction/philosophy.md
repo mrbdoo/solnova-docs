@@ -2,6 +2,10 @@
 
 We see Neververse as an innovative, unique digital space providing completely new formats of interaction—first between users, and subsequently between brands and users.
 
+<div style="border-left: 4px solid #FFCA00; background-color: rgba(255, 202, 0, 0.1); padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+<strong>Note:</strong> Some philosophical text about 500 characters describing the creative vision and community-driven nature of the platform.
+</div>
+
 We built this universe on **4 Pillars**:
 
 ## 1. Creative Expression

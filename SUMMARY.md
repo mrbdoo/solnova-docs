@@ -23,9 +23,12 @@
 
 ## Brands Invasion
 * [👾 Brands Invasion](5-brands-invasion/README.md)
+* [🌟 Why This Changes Everything](5-brands-invasion/why-this-changes-everything.md)
 
 ## Tokenomics
 * [💰 Tokenomics Overview](6-tokenomics/README.md)
+* [💡 Innovative Model](6-tokenomics/innovative-model.md)
+* [📊 SNOVA Emission Curve](6-tokenomics/emission-curve.md)
 
 ## Roadmap
 * [🗺️ Roadmap](7-roadmap/README.md)

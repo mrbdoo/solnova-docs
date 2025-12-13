@@ -2,13 +2,21 @@
 
 The Neververse NFT is your passport to the Solnova Universe. It is not just a collectible; it is a productive asset, a piece of digital real estate, and a key to gameplay.
 
-## NFT Functions & Utility
+<div style="display: flex; gap: 2rem; margin: 2rem 0; align-items: flex-start; flex-wrap: wrap;">
+<div style="flex: 0 0 40%; min-width: 300px;">
+<img src="../assets/NFT_card.png" alt="NFT Card Example" style="max-width: 100%; height: auto;" />
+<p style="text-align: left; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Example of the NFT Card design showcasing the visual representation of a Neververse Star NFT.</p>
+</div>
+<div style="flex: 1; min-width: 300px;">
+<h2>NFT Functions & Utility</h2>
 
 Owning a Solnova NFT grants you:
 1.  **Ownership of a Star System:** You get a Star and a set of Planets orbiting it.
 2.  **SNOVA Farming:** Your Star generates SNOVA tokens over time.
 3.  **Gameplay Access:** Participate in the ecosystem, customize your planets, and interact with others.
 4.  **Brand Interaction (Season 4):** Rent out your planets to brands for rewards.
+</div>
+</div>
 
 ## Star Properties
 
@@ -44,12 +52,17 @@ Each Star NFT is minted with specific initial parameters that define its gamepla
 *   **Farming Coefficient:** A multiplier based on Star Rarity.
 *   **Planet Farming Coefficient:** A multiplier specific to each planet (Boosted x2 by Satellites).
 
-> [!TIP]
-> **Full Brightness Boost:** Reaching 100% brightness gives a **x2 Multiplier** to the Farming Coefficient for the Star and all its planets.
+<div style="border-left: 4px solid #00d865; background-color: rgba(0, 216, 101, 0.1); padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+<strong>Full Brightness Boost:</strong> Reaching 100% brightness gives a <strong>x2 Multiplier</strong> to the Farming Coefficient for the Star and all its planets.
+</div>
 
 ### 6. Coordinate & Color
 *   **Color:** Random color from the range corresponding to the NFT Rarity.
 *   **Coordinate:** The actual physical address in the Neververse.
     *   **Rule:** Stars are distributed evenly from the center to the periphery.
     *   **Evolution:** Older stars (Genesis) remain closer to the Galaxy Center. New stars from later seasons appear on the expanding borders.
+
+<div style="text-align: center; margin: 3rem 0;">
+<img src="../assets/3.png" alt="Star Properties" style="max-width: 100%; height: auto;" />
+</div>
 

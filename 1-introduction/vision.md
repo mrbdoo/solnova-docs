@@ -14,8 +14,9 @@ We envision Neververse as a 3D world—a real world where other users and brands
 **Sharing as a Core Mechanic**
 Satellites can only be dropped on someone else's planet. Therefore, whether maximum mining is activated at the planet level depends on whether someone drops a satellite there. By helping others, they will come and help you. Relationships and connections between strangers will naturally form.
 
-> [!TIP]
-> **CORE IDEA:** For all participants in the system to earn more, everyone must fill each other's planets.
+<div style="border-left: 4px solid #00d865; background-color: rgba(0, 216, 101, 0.1); padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+<strong>CORE IDEA:</strong> For all participants in the system to earn more, everyone must fill each other's planets.
+</div>
 
 **GIFs are the new Pokemon**
 GIFs are rare. You can drop a Satellite only from the GIFs you have:
@@ -31,4 +32,8 @@ You are collecting cool GIFs by leaving Satellites on Planets. At the same time,
 To ensure development, constant new value for the user, and capitalization inflow into the system, we developed a unique, truly seamless possibility for Business integration (from small companies to international corporations) into the platform.
 
 **And this completely flipped the game.**
+
+<div style="text-align: center; margin: 3rem 0;">
+<img src="../assets/5.png" alt="Vision" style="max-width: 100%; height: auto;" />
+</div>
 

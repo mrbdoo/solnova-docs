@@ -1,5 +1,10 @@
 # 👾 Brands Invasion (Season 4)
 
+<div style="text-align: center; margin: 3rem 0;">
+<img src="../assets/5.png" alt="Brands Invasion" style="max-width: 100%; height: auto;" />
+<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Infographic illustrating the flow of SNOVA from Brands to Users and the distribution of Real Prizes.</p>
+</div>
+
 **The Culmination of Neververse Development.**
 
 In Season 4, "Aliens" from a parallel universe—**BRANDS**—invade the Neververse. This is not just an update; it is a revolution where Web 3.0 meets Web 2.0.
@@ -7,9 +12,11 @@ In Season 4, "Aliens" from a parallel universe—**BRANDS**—invade the Neverve
 ## The Vision
 We have developed a unique, seamless way for businesses—from small startups to international corporations—to integrate into the platform.
 
-**Core Idea:**
-> Brands buy SNOVA to pay users = **SNOVA Capitalization Grows.**
-> Brands pay SNOVA to remain in the system = **SNOVA Circulates & Deflates.**
+<div style="border-left: 4px solid #FA643F; background-color: rgba(250, 100, 63, 0.1); padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+<strong>Core Idea:</strong><br/>
+Brands buy SNOVA to pay users = <strong>SNOVA Capitalization Grows.</strong><br/>
+Brands pay SNOVA to remain in the system = <strong>SNOVA Circulates & Deflates.</strong>
+</div>
 
 ## Brand Functionality: The "Invendor"
 New entity type: **Brand Account**.
@@ -44,11 +51,7 @@ No games, just pure exploration.
 | **Portal Game** | Skill-based mini-games (e.g., Space Race). | Top Leaderboard gets Real Prizes. | SNOVA for renting the planet. |
 | **Nugget Hunt** | Lottery-based search on Satellites. | Random drop (Real Prizes). | Prize for the Planet Owner too. |
 
-![Brands Invasion](../assets/5.png)
-*Infographic illustrating the flow of SNOVA from Brands to Users and the distribution of Real Prizes.*
-
----
-
-## Why This Changes Everything
-For the first time, a game universe connects real-world value (Brand Marketing Budgets) with crypto-gaming mechanics in a way that is fun, not intrusive. Users don't watch ads; they *play* branded content to win *real* stuff.
+<div style="text-align: center; margin: 3rem 0;">
+<img src="../assets/Campaigns.png" alt="Campaigns" style="max-width: 100%; height: auto;" />
+</div>
 

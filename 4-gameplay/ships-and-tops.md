@@ -1,4 +1,4 @@
-# 🚢 Ships, Customization & Leaderboards
+# 🚢 Ships & Users TOPs
 
 ## Ship Development
 
@@ -25,9 +25,10 @@ Competition is a key driver of the Neververse. We track and celebrate the most a
 2.  **Top GIFs:** The most collected and shared memes.
 3.  **Top Star:** The highest SNOVA production systems.
 
-> [!INFO]
-> **Social Proof**
-> Being in the TOPs isn't just for vanity; it attracts more visitors (Satellites), which in turn boosts your farming further. It's a positive feedback loop.
+<div style="border-left: 4px solid #4B90F7; background-color: rgba(75, 144, 247, 0.1); padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+<strong>Social Proof</strong><br/>
+Being in the TOPs isn't just for vanity; it attracts more visitors (Satellites), which in turn boosts your farming further. It's a positive feedback loop.
+</div>
 
 ---
 

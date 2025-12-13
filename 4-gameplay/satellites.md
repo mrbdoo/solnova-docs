@@ -1,5 +1,10 @@
 # 🛰️ Satellites & Social Interaction
 
+<div style="text-align: center; margin: 3rem 0;">
+<img src="../assets/4.png" alt="Satellite Interaction" style="max-width: 100%; height: auto;" />
+<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Visualization of the social sharing mechanic: dropping Satellites between star systems.</p>
+</div>
+
 **Satellites are the glue that joins far-flung star owners together.**
 
 In the vast emptiness of space, Satellites are the unique innovative way to connect. They turn the Neververse from a lonely single-player experience into a vibrant social network.
@@ -8,7 +13,9 @@ In the vast emptiness of space, Satellites are the unique innovative way to conn
 
 We realized that if we create a platform where interaction is beneficial, innovation will follow.
 
-**CORE IDEA:** To earn more, everyone must help fill each other's planets.
+<div style="border-left: 4px solid #4B90F7; background-color: rgba(75, 144, 247, 0.1); padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+<strong>CORE IDEA:</strong> To earn more, everyone must help fill each other's planets.
+</div>
 
 ### How Satellites Work
 1.  **Delivery:** You fly your Ship to a foreign star system.
@@ -18,10 +25,13 @@ We realized that if we create a platform where interaction is beneficial, innova
 5.  **Lifespan:** The Satellite orbits the receiver's planet for **15 Days**.
 6.  **Aftermath:** After 15 days, it disappears from the orbit but remains forever in the receiver's "Collected Satellites" inventory.
 
-> [!TIP]
-> **Why do this?**
-> *   **For the Sender:** It's a way to communicate, show off your rare GIFs, and attract visitors back to your system.
-> *   **For the Receiver:** Incoming Satellites boost the planet's SNOVA farming. **15 Satellites on a planet = x2 Farming Boost.**
+<div style="border-left: 4px solid #00d865; background-color: rgba(0, 216, 101, 0.1); padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
+<strong>Why do this?</strong>
+<ul style="margin: 0.5rem 0;">
+<li><strong>For the Sender:</strong> It's a way to communicate, show off your rare GIFs, and attract visitors back to your system.</li>
+<li><strong>For the Receiver:</strong> Incoming Satellites boost the planet's SNOVA farming. <strong>15 Satellites on a planet = x2 Farming Boost.</strong></li>
+</ul>
+</div>
 
 ## GIFs are the New Pokemon
 

@@ -2,8 +2,14 @@
 
 The first 1000 NFTs minted during the Presale are the **Genesis Collection**. These are the ancient giants of the Neververse, holding special privileges.
 
-![Genesis Star](../assets/2.png)
-*Concept art of a Genesis Star with its unique gradient glow.*
+<div style="text-align: center; margin: 3rem 0;">
+<img src="../assets/2.png" alt="Genesis Star" style="max-width: 100%; height: auto;" />
+<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Concept art of a Genesis Star with its unique gradient glow.</p>
+</div>
+
+## How to Get the Genesis NFT
+
+On the Presale stage, each early investor will get **1 NFT of random Rarity** for each **10,000 SNOVA** bought (which is equivalent to **2.5 SOL**), but not more than **3 Free NFTs** in one hand.
 
 ## Exclusive Benefits:
 1.  **x2 Default Farming Coefficient:** They farm SNOVA twice as fast as standard stars.
