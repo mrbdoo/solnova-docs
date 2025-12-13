@@ -1,4 +1,4 @@
-# Ships, Customization & Leaderboards
+# 🚢 Ships, Customization & Leaderboards
 
 ## Ship Development
 

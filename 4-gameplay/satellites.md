@@ -1,4 +1,4 @@
-# Satellites & Social Interaction
+# 🛰️ Satellites & Social Interaction
 
 **Satellites are the glue that joins far-flung star owners together.**
 

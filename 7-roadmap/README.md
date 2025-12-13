@@ -1,4 +1,4 @@
-# Roadmap
+# 🗺️ Roadmap
 
 Our journey is divided into **Seasons**, each bringing a major evolution to the Neververse mechanics and economy.
 

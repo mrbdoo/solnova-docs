@@ -1,4 +1,4 @@
-# Tokenomics
+# 💰 Tokenomics
 
 The SNOVA tokenomics is designed to be sustainable, deflationary, and value-driven, ensuring longevity from the Big Bang through the Brand Invasion Era.
 
@@ -54,9 +54,8 @@ We calculated the farming potential of every NFT across all 5 Seasons, assuming 
 
 *Note: The remaining supply covers liquidity provisioning, marketing incentives, and ecosystem buffers.*
 
-[Interactive Component: Emission Chart]
-> [!NOTE]
-> *A chart showing the curve of SNOVA emission slowing down as seasons progress and farming limits decrease.*
+![Tokenomics Emission Curve](../assets/6.png)
+*Chart showing the curve of SNOVA emission slowing down as seasons progress and farming limits decrease.*
 
 ---
 

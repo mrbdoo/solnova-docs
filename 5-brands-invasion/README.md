@@ -1,4 +1,4 @@
-# Brands Invasion (Season 4)
+# 👾 Brands Invasion (Season 4)
 
 **The Culmination of Neververse Development.**
 
@@ -44,7 +44,7 @@ No games, just pure exploration.
 | **Portal Game** | Skill-based mini-games (e.g., Space Race). | Top Leaderboard gets Real Prizes. | SNOVA for renting the planet. |
 | **Nugget Hunt** | Lottery-based search on Satellites. | Random drop (Real Prizes). | Prize for the Planet Owner too. |
 
-![Brands Invasion Scheme Placeholder](placeholder_brands_invasion.png)
+![Brands Invasion](../assets/5.png)
 *Infographic illustrating the flow of SNOVA from Brands to Users and the distribution of Real Prizes.*
 
 ---
