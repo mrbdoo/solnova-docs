@@ -1,52 +1,77 @@
-/* Global Image Styling */
+/* Global Image Styling - Large and Center Aligned */
 .markdown-section img {
     display: block;
     margin: 2rem auto;
-    max-width: 100%;
+    width: 100%;
+    max-width: 1200px;
     height: auto;
 }
 
-/* Image Caption Styling */
-.markdown-section img + em,
-.markdown-section img + p em {
+/* Image Wrapper Divs - Ensure Center Alignment */
+.markdown-section div[style*="text-align: center"] img {
     display: block;
-    text-align: center;
-    color: #999;
+    margin: 2rem auto;
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+}
+
+/* Image Caption Styling - Center Aligned and Light Grey */
+.markdown-section img + p,
+.markdown-section img + em,
+.markdown-section div[style*="text-align: center"] p {
+    display: block;
+    text-align: center !important;
+    color: #999 !important;
     font-size: 0.9em;
     margin-top: 0.5rem;
     margin-bottom: 1.5rem;
+    font-style: normal;
 }
 
-/* Colorful Info Blocks */
+/* Colorful Info Blocks - GitBook Syntax */
 .markdown-section blockquote[class*="INFO"] {
-    border-left: 4px solid #4B90F7;
-    background-color: rgba(75, 144, 247, 0.1);
+    border-left: 4px solid #4B90F7 !important;
+    background-color: rgba(75, 144, 247, 0.15) !important;
     padding: 1rem 1.5rem;
     margin: 1.5rem 0;
     border-radius: 4px;
+    color: inherit;
 }
 
 .markdown-section blockquote[class*="TIP"] {
-    border-left: 4px solid #00d865;
-    background-color: rgba(0, 216, 101, 0.1);
+    border-left: 4px solid #00d865 !important;
+    background-color: rgba(0, 216, 101, 0.15) !important;
     padding: 1rem 1.5rem;
     margin: 1.5rem 0;
     border-radius: 4px;
+    color: inherit;
 }
 
 .markdown-section blockquote[class*="WARNING"] {
-    border-left: 4px solid #FFCA00;
-    background-color: rgba(255, 202, 0, 0.1);
+    border-left: 4px solid #FFCA00 !important;
+    background-color: rgba(255, 202, 0, 0.15) !important;
     padding: 1rem 1.5rem;
     margin: 1.5rem 0;
     border-radius: 4px;
+    color: inherit;
 }
 
 .markdown-section blockquote[class*="NOTE"] {
-    border-left: 4px solid #FA643F;
-    background-color: rgba(250, 100, 63, 0.1);
+    border-left: 4px solid #FA643F !important;
+    background-color: rgba(250, 100, 63, 0.15) !important;
     padding: 1rem 1.5rem;
     margin: 1.5rem 0;
     border-radius: 4px;
+    color: inherit;
 }
 
+/* Ensure info blocks don't have default blockquote styling */
+.markdown-section blockquote[class*="INFO"],
+.markdown-section blockquote[class*="TIP"],
+.markdown-section blockquote[class*="WARNING"],
+.markdown-section blockquote[class*="NOTE"] {
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+}

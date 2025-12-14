@@ -38,8 +38,6 @@ The model below shows how much SNOVA Stars of different rarity generate:
 *   **NFT-Given Rarity:** Higher rarity = Higher coefficients and more Max Planets.
 *   **Strategy:** You can significantly increase yield by **Shining Up** (unlocking planets) and **Socializing** (attracting satellites).
 
-<div style="border-left: 4px solid #FA643F; background-color: rgba(250, 100, 63, 0.1); padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
-<em>Interactive Component: Farming Calculator</em><br/>
-Imagine a calculator here where you select your NFT Rarity and Current Brightness to see your estimated Daily and Monthly SNOVA production.
-</div>
-
+> [!NOTE]
+> *Interactive Component: Farming Calculator*
+> Imagine a calculator here where you select your NFT Rarity and Current Brightness to see your estimated Daily and Monthly SNOVA production.

@@ -1,7 +1,7 @@
 # 👾 Brands Invasion (Season 4)
 
 <div style="text-align: center; margin: 3rem 0;">
-<img src="../assets/5.png" alt="Brands Invasion" style="max-width: 100%; height: auto;" />
+<img src="../assets/5.png" alt="Brands Invasion" style="width: 100%; max-width: 1200px; height: auto;" />
 <p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Infographic illustrating the flow of SNOVA from Brands to Users and the distribution of Real Prizes.</p>
 </div>
 
@@ -12,11 +12,10 @@ In Season 4, "Aliens" from a parallel universe—**BRANDS**—invade the Neverve
 ## The Vision
 We have developed a unique, seamless way for businesses—from small startups to international corporations—to integrate into the platform.
 
-<div style="border-left: 4px solid #FA643F; background-color: rgba(250, 100, 63, 0.1); padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
-<strong>Core Idea:</strong><br/>
-Brands buy SNOVA to pay users = <strong>SNOVA Capitalization Grows.</strong><br/>
-Brands pay SNOVA to remain in the system = <strong>SNOVA Circulates & Deflates.</strong>
-</div>
+> [!NOTE]
+> **Core Idea:**
+> Brands buy SNOVA to pay users = **SNOVA Capitalization Grows.**
+> Brands pay SNOVA to remain in the system = **SNOVA Circulates & Deflates.**
 
 ## Brand Functionality: The "Invendor"
 New entity type: **Brand Account**.
@@ -52,6 +51,5 @@ No games, just pure exploration.
 | **Nugget Hunt** | Lottery-based search on Satellites. | Random drop (Real Prizes). | Prize for the Planet Owner too. |
 
 <div style="text-align: center; margin: 3rem 0;">
-<img src="../assets/Campaigns.png" alt="Campaigns" style="max-width: 100%; height: auto;" />
+<img src="../assets/Campaigns.png" alt="Campaigns" style="width: 100%; max-width: 1200px; height: auto;" />
 </div>
-

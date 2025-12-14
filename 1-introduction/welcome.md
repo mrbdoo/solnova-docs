@@ -1,15 +1,10 @@
-<div style="position: absolute; top: 20px; right: 20px; display: flex; gap: 15px; z-index: 1000;">
-    <img src="../assets/logo-1.png" alt="Solnova Logo" style="height: 40px; width: auto;" />
-    <img src="../assets/Nevververse_white.png" alt="Neververse Logo" style="height: 40px; width: auto;" />
-</div>
-
-# 🌌 Welcome to the Solnova Universe
+# 🌌 Solnova (SNOVA) Token
 
 In this raging world, in this vortex of madness and absurdity spinning out of control, right in its center—frozen and immovable—without warning or preparation, **SHE** was born and exploded into myriads of stars: the **Solnova Universe**.
 
 If you are reading this, it means you are present at this very moment. You are the consciousness within which this cosmos arises. You are its future body, its Alpha and Omega. You are its Supreme Meme.
 
-## Solnova (SNOVA) Token <img src="../assets/SNOVA.webp" alt="SNOVA Token" style="display: inline-block; height: 32px; width: auto; vertical-align: middle; margin-left: 10px;" />
+## Solnova (SNOVA) Token <img src="../assets/SNOVA.webp" alt="SNOVA Token" style="display: inline-block; height: 8px; width: auto; vertical-align: middle; margin-left: 10px;" />
 
 Solnova is not just another meaningless coin, not just another one-day meme coin clogging the ether with nothing but a bright wrapper.
 
@@ -17,9 +12,8 @@ Solnova is not just another meaningless coin, not just another one-day meme coin
 
 It is a place where, in the silent rotation of celestial spheres, consciousness finds peace, and the crypto investor holding it finds a high-yield asset and a loyal community. A place where the only law is the physics of rotation, attraction, and repulsion, and everything else is allowed and welcomed—because the cosmos has seen it all and accepts it all as it is.
 
-<div style="border-left: 4px solid #4B90F7; background-color: rgba(75, 144, 247, 0.1); padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
-<strong>Solnova is a space of creativity, shining and dispelling the darkness.</strong>
-</div>
+> [!INFO]
+> **Solnova is a space of creativity, shining and dispelling the darkness.**
 
 Why is this so? What exactly does this mean and how is it realized? You will find out very soon.
 
@@ -31,7 +25,7 @@ Neververse is the Solnova Universe. It is the space we have hinted at so unequiv
 
 Planets revolve around each such star. There are many of them, but not all are visible because the light of the star does not reach everyone. The brighter the star shines, the more planets revolving around it become visible.
 
-## Neververse Utility
+## Neververse Utility <img src="../assets/Nevververse_white.png" alt="Neververse Logo" style="display: inline-block; height: 16px; width: auto; vertical-align: middle; margin-left: 10px;" />
 
 What makes a planet brighter? What kind of fuel makes it burn? In our system, it is **Solnova (SNOVA)**.
 **BURN TO SHINE**—there is nothing more to add. The more tokens you burn, the brighter your star will shine, and the more planets will revolve around it.
@@ -39,4 +33,3 @@ What makes a planet brighter? What kind of fuel makes it burn? In our system, it
 Who inhabits the planets? **Memes.**
 *   1 Planet = 1 Meme.
 *   An image or GIF is doomed to revolve eternally around its star until some cosmic voyager sees it. Or until you change it for another meme.
-

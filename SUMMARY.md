@@ -1,7 +1,7 @@
 # Table of Contents
 
 ## Introduction
-* [🌌 Welcome to the Solnova Universe](1-introduction/welcome.md)
+* [🌌 Solnova (SNOVA) Token](1-introduction/welcome.md)
 * [💭 Philosophy](1-introduction/philosophy.md)
 * [🔮 Vision](1-introduction/vision.md)
 
@@ -9,7 +9,6 @@
 * [⭐ NFT Types & Rarity](2-neververse-nft/types-and-rarity.md)
 * [🎯 NFT Functions & Properties](2-neververse-nft/functions-and-properties.md)
 * [✨ Genesis NFTs](2-neververse-nft/genesis.md)
-* [📅 Seasonal Release Structure](2-neververse-nft/seasonal-release.md)
 
 ## Neververse Utility
 * [🚀 Welcome to the Neververse](3-neververse-utility/welcome.md)
@@ -19,7 +18,7 @@
 * [⚡ SNOVA Farming](4-gameplay/farming.md)
 * [🔥 Burn to Shine](4-gameplay/burn-to-shine.md)
 * [🛰️ Satellites](4-gameplay/satellites.md)
-* [🚢 Ships & Tops](4-gameplay/ships-and-tops.md)
+* [🚢 Ships & Users TOPs](4-gameplay/ships-and-tops.md)
 
 ## Brands Invasion
 * [👾 Brands Invasion](5-brands-invasion/README.md)

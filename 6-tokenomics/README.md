@@ -63,7 +63,5 @@ SNOVA is constantly burned or removed from circulation:
 2.  **Ship Customization:** Buying skins.
 3.  **Brand Era (The Flywheel):** Brands buy SNOVA from the market to pay for campaigns.
 
-<div style="border-left: 4px solid #00d865; background-color: rgba(0, 216, 101, 0.1); padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
-<strong>The Cycle:</strong> Tokens burned during "Shine Up" or spent on Skins return to the System Reserve. We effectively resell them or burn them to manage price stability.
-</div>
-
+> [!TIP]
+> **The Cycle:** Tokens burned during "Shine Up" or spent on Skins return to the System Reserve. We effectively resell them or burn them to manage price stability.

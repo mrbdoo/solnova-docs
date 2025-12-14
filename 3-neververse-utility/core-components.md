@@ -30,7 +30,7 @@ Satellites are the "glue" that connects far-flung star systems.
 *   **Benefit:** Boosts the host planet's SNOVA production.
 
 <div style="text-align: center; margin: 3rem 0;">
-<img src="../assets/4.png" alt="Satellite Interaction" style="max-width: 100%; height: auto;" />
+<img src="../assets/4.png" alt="Satellite Interaction" style="width: 100%; max-width: 1200px; height: auto;" />
 <p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Visualization of the social sharing mechanic: dropping Satellites between star systems.</p>
 </div>
 
@@ -47,8 +47,6 @@ Brands are "aliens" from the parallel universe (the Real World) invading the Nev
 *   **Nuggets:** Hidden prizes (real-world items like iPhones or Macs) hidden inside Satellites or scattered across the universe.
 *   **Symbiosis:** Brands pay SNOVA and Real Prizes to interact with the user base.
 
-<div style="border-left: 4px solid #4B90F7; background-color: rgba(75, 144, 247, 0.1); padding: 1rem 1.5rem; margin: 1.5rem 0; border-radius: 4px;">
-<strong>Web 3.0 + Web 2.0 Revolution</strong><br/>
-This is a unique symbiosis where two worlds win. An innovative platform for emotional, game-based brand-user interaction.
-</div>
-
+> [!INFO]
+> **Web 3.0 + Web 2.0 Revolution**
+> This is a unique symbiosis where two worlds win. An innovative platform for emotional, game-based brand-user interaction.
