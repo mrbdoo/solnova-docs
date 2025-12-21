@@ -1,5 +1,6 @@
 /* Global Image Styling - Large and Center Aligned */
-.markdown-section img {
+/* Only apply to images that are NOT inline-block (exclude small inline icons) */
+.markdown-section img:not([style*="display: inline-block"]) {
     display: block;
     margin: 2rem auto;
     width: 100%;
@@ -8,12 +9,21 @@
 }
 
 /* Image Wrapper Divs - Ensure Center Alignment */
-.markdown-section div[style*="text-align: center"] img {
+.markdown-section div[style*="text-align: center"] img:not([style*="display: inline-block"]) {
     display: block;
     margin: 2rem auto;
     width: 100%;
     max-width: 1200px;
     height: auto;
+}
+
+/* Inline Images - Keep Small (Override Global Rules) */
+.markdown-section img[style*="display: inline-block"] {
+    display: inline-block !important;
+    width: auto !important;
+    max-width: none !important;
+    margin: 0 !important;
+    vertical-align: middle;
 }
 
 /* Image Caption Styling - Center Aligned and Light Grey */
