@@ -34,5 +34,4 @@ To ensure development, constant new value for the user, and capitalization inflo
 
 <div style="text-align: center; margin: 3rem 0;">
 <img src="../assets/5.png" alt="Vision" style="width: 100%; max-width: 1200px; height: auto;" />
-<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;"></p>
 </div>

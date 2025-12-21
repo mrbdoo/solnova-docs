@@ -4,7 +4,7 @@ In this raging world, in this vortex of madness and absurdity spinning out of co
 
 If you are reading this, it means you are present at this very moment. You are the consciousness within which this cosmos arises. You are its future body, its Alpha and Omega. You are its Supreme Meme.
 
-## Solnova (SNOVA) Token <img src="../assets/SNOVA.webp" alt="SNOVA Token" style="display: inline-block; height: 8px; width: auto; vertical-align: middle; margin-left: 10px;" />
+## Solnova (SNOVA) Token <img src="../assets/SNOVA.webp" alt="SNOVA Token" style="display: inline-block; height: 4px; width: auto; vertical-align: middle; margin-left: 10px;" />
 
 Solnova is not just another meaningless coin, not just another one-day meme coin clogging the ether with nothing but a bright wrapper.
 
@@ -17,7 +17,7 @@ It is a place where, in the silent rotation of celestial spheres, consciousness 
 
 Why is this so? What exactly does this mean and how is it realized? You will find out very soon.
 
-## Neververse NFT Collection
+## Neververse NFT Collection <img src="../assets/NFT.gif" alt="NFT" style="display: inline-block; height: 4px; width: auto; vertical-align: middle; margin-left: 10px;" />
 
 Neververse is the Solnova Universe. It is the space we have hinted at so unequivocally. It is our personal cosmos where everyone who is lucky enough to purchase or receive our NFT for free finds themselves.
 
@@ -25,7 +25,7 @@ Neververse is the Solnova Universe. It is the space we have hinted at so unequiv
 
 Planets revolve around each such star. There are many of them, but not all are visible because the light of the star does not reach everyone. The brighter the star shines, the more planets revolving around it become visible.
 
-## Neververse Utility <img src="../assets/Nevververse_white.png" alt="Neververse Logo" style="display: inline-block; height: 16px; width: auto; vertical-align: middle; margin-left: 10px;" />
+## Neververse Utility <img src="../assets/Nevververse_white.png" alt="Neververse Logo" style="display: inline-block; height: 12px; width: auto; vertical-align: middle; margin-left: 10px;" />
 
 What makes a planet brighter? What kind of fuel makes it burn? In our system, it is **Solnova (SNOVA)**.
 **BURN TO SHINE**—there is nothing more to add. The more tokens you burn, the brighter your star will shine, and the more planets will revolve around it.
