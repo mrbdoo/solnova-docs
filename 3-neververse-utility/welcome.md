@@ -4,5 +4,5 @@ The Neververse is a living, breathing digital cosmos. It is not just a collectio
 
 <div style="text-align: center; margin: 3rem 0;">
 <img src="../assets/3.png" alt="Neververse Map" style="width: 100%; max-width: 1200px; height: auto;" />
-<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">A map of the Neververse showing the Central Galaxy and expanding borders.</p>
 </div>
+<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">A map of the Neververse showing the Central Galaxy and expanding borders.</p>

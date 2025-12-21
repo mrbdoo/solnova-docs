@@ -2,8 +2,8 @@
 
 <div style="text-align: center; margin: 3rem 0;">
 <img src="../assets/3.png" alt="Burn to Shine Mechanics" style="width: 100%; max-width: 1200px; height: auto;" />
-<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Infographic showing the correlation: Burn SNOVA -> Increase Brightness -> Unlock Planets -> Increase Farming.</p>
 </div>
+<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Infographic showing the correlation: Burn SNOVA -> Increase Brightness -> Unlock Planets -> Increase Farming.</p>
 
 To maximize your farming potential, you must upgrade your Star. This process is called **Shining Up**.
 

@@ -2,8 +2,8 @@
 
 <div style="text-align: center; margin: 3rem 0;">
 <img src="../assets/4.png" alt="Satellite Interaction" style="width: 100%; max-width: 1200px; height: auto;" />
-<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Visualization of the social sharing mechanic: dropping Satellites between star systems.</p>
 </div>
+<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Visualization of the social sharing mechanic: dropping Satellites between star systems.</p>
 
 **Satellites are the glue that joins far-flung star owners together.**
 

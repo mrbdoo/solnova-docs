@@ -4,8 +4,8 @@ The first 1000 NFTs minted during the Presale are the **Genesis Collection**. Th
 
 <div style="text-align: center; margin: 3rem 0;">
 <img src="../assets/2.png" alt="Genesis Star" style="width: 100%; max-width: 1200px; height: auto;" />
-<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Concept art of a Genesis Star with its unique gradient glow.</p>
 </div>
+<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Concept art of a Genesis Star with its unique gradient glow.</p>
 
 ## How to Get the Genesis NFT
 

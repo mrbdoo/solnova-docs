@@ -31,8 +31,8 @@ Satellites are the "glue" that connects far-flung star systems.
 
 <div style="text-align: center; margin: 3rem 0;">
 <img src="../assets/4.png" alt="Satellite Interaction" style="width: 100%; max-width: 1200px; height: auto;" />
-<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Visualization of the social sharing mechanic: dropping Satellites between star systems.</p>
 </div>
+<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Visualization of the social sharing mechanic: dropping Satellites between star systems.</p>
 
 ## 5. GODs (The Monuments) - *Season 2*
 A GOD is the ultimate expression of a Star's power.

@@ -2,8 +2,8 @@
 
 <div style="text-align: center; margin: 3rem 0;">
 <img src="../assets/5.png" alt="Brands Invasion" style="width: 100%; max-width: 1200px; height: auto;" />
-<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Infographic illustrating the flow of SNOVA from Brands to Users and the distribution of Real Prizes.</p>
 </div>
+<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Infographic illustrating the flow of SNOVA from Brands to Users and the distribution of Real Prizes.</p>
 
 **The Culmination of Neververse Development.**
 
