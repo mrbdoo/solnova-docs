@@ -17,6 +17,11 @@ We have developed a unique, seamless way for businesses—from small startups to
 > Brands buy SNOVA to pay users = **SNOVA Capitalization Grows.**
 > Brands pay SNOVA to remain in the system = **SNOVA Circulates & Deflates.**
 
+<div style="text-align: center; margin: 3rem 0;">
+<img src="../assets/9.png" alt="Post-farming economy" style="width: 100%; max-width: 1200px; height: auto;" />
+</div>
+<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Post-farming economy. Brand Portal and Nugget Hunting</p>
+
 ## Brand Functionality: The "Invendor"
 New entity type: **Brand Account**.
 

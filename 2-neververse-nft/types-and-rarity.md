@@ -38,3 +38,6 @@ The Neververse evolves in Seasons. Each season introduces new NFTs with differen
 
 > [!WARNING]
 > **Post-Farming Era:** New NFTs minted in the Post-Farming Era (Season 5+) will **not** have SNOVA farming ability. Their value will be derived entirely from Brand interactions (renting planets for Portals and Satellites for Nuggets).
+
+> [!NOTE]
+> **Common Rule Starting from Genesis NFTs:** NFTs that were not sold in one Season will be added to the batch of New NFTs of the next Season. There will still be a small chance to get earlier Season NFTs, even the Genesis ones, if there were any left unsold. This is good luck since earlier generations of NFTs have better Farming Limit rates.

@@ -2,11 +2,8 @@
 
 Our journey is divided into **Seasons**, each bringing a major evolution to the Neververse mechanics and economy.
 
-## 🏁 Presale
-**Goal:** Maximize Initial Capitalization.
-*   **Launch:** Solnova Landing & Neververse Demo.
-*   **Bonus:** Early investors get a **Genesis NFT** (1 random NFT for every X SNOVA bought).
-*   **Perks:** +30% Token Bonus, Early Product Access, Closed Chat, DAO Participation.
+> [!INFO]
+> **Presale Details:** For complete information about the Presale, including dates, allocation, Genesis NFT rewards, and participation steps, see the [Presale page](presale.md).
 
 ---
 

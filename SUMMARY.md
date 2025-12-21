@@ -30,6 +30,7 @@
 * [📊 SNOVA Emission Curve](6-tokenomics/emission-curve.md)
 
 ## Roadmap
+* [🏁 Presale](7-roadmap/presale.md)
 * [🗺️ Roadmap](7-roadmap/README.md)
 
 ## Team & Technology

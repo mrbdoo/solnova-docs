@@ -4,10 +4,11 @@ The SNOVA tokenomics is designed to be sustainable, deflationary, and value-driv
 
 ## Core Statements
 
-1.  **Total Max Supply:** **2,200,000,000 SNOVA** (2.2 Billion).
-2.  **Presale:** We sell 9,000,000 SNOVA.
-3.  **Farming Only:** The remaining ~1.99 Billion SNOVA can **only** be farmed within the Neververse by NFT holders.
-4.  **Emission Control:** 120,000 NFTs will be released over 5 Seasons to mine this supply.
+1.  **Total Max Supply:** **2,500,000,000 SNOVA** (2.5 Billion).
+2.  **Presale:** 250,000,000 SNOVA + 75,000,000 SNOVA (+30% Extra for presale investors).
+3.  **Farming:** 2,000,000,000 SNOVA (120,000 NFT full farming).
+4.  **Game:** 125,000,000 SNOVA (Users engagement).
+5.  **Emission Control:** 120,000 NFTs will be released over 5 Seasons to mine this supply.
 
 ---
 

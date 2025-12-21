@@ -1,5 +1,10 @@
 # 🎮 Core Game Components
 
+<div style="text-align: center; margin: 3rem 0;">
+<img src="../assets/4.png" alt="Satellite Interaction" style="width: 100%; max-width: 1200px; height: auto;" />
+</div>
+<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Visualization of the social sharing mechanic: dropping Satellites between star systems.</p>
+
 ## 1. Stars (The Foundation)
 The Star is the heart of your system. It is the NFT you own. It provides gravity, light, and energy (SNOVA) to your planets.
 *   **Role:** Energy Source, SNOVA Generator.
@@ -29,11 +34,6 @@ Satellites are the "glue" that connects far-flung star systems.
 *   **Lifespan:** Flies around the receiver's planet for 15 days, then remains in their collection.
 *   **Benefit:** Boosts the host planet's SNOVA production.
 
-<div style="text-align: center; margin: 3rem 0;">
-<img src="../assets/4.png" alt="Satellite Interaction" style="width: 100%; max-width: 1200px; height: auto;" />
-</div>
-<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Visualization of the social sharing mechanic: dropping Satellites between star systems.</p>
-
 ## 5. GODs (The Monuments) - *Season 2*
 A GOD is the ultimate expression of a Star's power.
 *   **Requirement:** Can only be placed on a Star that has reached **100% Brightness**.
@@ -50,3 +50,8 @@ Brands are "aliens" from the parallel universe (the Real World) invading the Nev
 > [!INFO]
 > **Web 3.0 + Web 2.0 Revolution**
 > This is a unique symbiosis where two worlds win. An innovative platform for emotional, game-based brand-user interaction.
+
+<div style="text-align: center; margin: 3rem 0;">
+<img src="../assets/7.png" alt="Brand Invasion" style="width: 100%; max-width: 1200px; height: auto;" />
+</div>
+<p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Brand Invasion</p>

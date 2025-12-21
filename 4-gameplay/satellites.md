@@ -1,7 +1,7 @@
 # 🛰️ Satellites & Social Interaction
 
 <div style="text-align: center; margin: 3rem 0;">
-<img src="../assets/4.png" alt="Satellite Interaction" style="width: 100%; max-width: 1200px; height: auto;" />
+<img src="../assets/8.png" alt="Satellite Interaction" style="width: 100%; max-width: 1200px; height: auto;" />
 </div>
 <p style="text-align: center; color: #999; font-size: 0.9em; margin-top: 0.5rem;">Visualization of the social sharing mechanic: dropping Satellites between star systems.</p>
 
