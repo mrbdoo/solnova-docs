@@ -27,9 +27,4 @@ Planets revolve around each such star. There are many of them, but not all are v
 
 ## Neververse Utility <img src="../assets/Nevververse_white.png" alt="Neververse Logo" style="display: inline-block; height: 0.3em; width: auto; vertical-align: middle; margin-left: 10px;" />
 
-What makes a planet brighter? What kind of fuel makes it burn? In our system, it is **Solnova (SNOVA)**.
-**BURN TO SHINE**—there is nothing more to add. The more tokens you burn, the brighter your star will shine, and the more planets will revolve around it.
-
-Who inhabits the planets? **Memes.**
-*   1 Planet = 1 Meme.
-*   An image or GIF is doomed to revolve eternally around its star until some cosmic voyager sees it. Or until you change it for another meme.
+Neververse is a real-time 3D social platform where you own a Star System, navigate with your Ship, and interact with other users and brands in a shared universe. It's a creative space where GIFs and memes become collectibles, a game where helping others boosts your rewards, and a marketplace where creators sell Skins and Brands run campaigns. Neververse bridges Web 3.0 ownership with Web 2.0 engagement—you own your Star (NFT), customize your Planets, collect rare GIFs, and earn SNOVA through farming, creativity, and social interaction. It's a living cosmos where every action creates value, every connection matters, and brands participate alongside users in an evolving digital economy.
