@@ -5,8 +5,8 @@ The Presale marks the beginning of the Solnova Universe. This is your opportunit
 ## Presale Details
 
 **Start Date:** January 17, 2025  
-**Duration:** 20 days  
-**End Date:** February 6, 2025
+**Duration:** 1 month  
+**End Date:** February 17, 2025
 
 ## Presale Allocation
 

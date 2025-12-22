@@ -1,4 +1,4 @@
-# 🌌 Solnova (SNOVA) Token
+# 🌌 Solnova Ecosystem
 
 In this raging world, in this vortex of madness and absurdity spinning out of control, right in its center—frozen and immovable—without warning or preparation, **SHE** was born and exploded into myriads of stars: the **Solnova Universe**.
 

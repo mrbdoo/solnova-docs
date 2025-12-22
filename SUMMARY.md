@@ -1,7 +1,8 @@
 # Table of Contents
 
 ## Introduction
-* [🌌 Solnova (SNOVA) Token](1-introduction/welcome.md)
+* [🌌 Solnova Ecosystem](1-introduction/welcome.md)
+* [🔍 Problems and Solutions](1-introduction/problems-and-solutions.md)
 * [💭 Philosophy](1-introduction/philosophy.md)
 * [🔮 Vision](1-introduction/vision.md)
 
@@ -16,9 +17,9 @@
 
 ## Gameplay
 * [⚡ SNOVA Farming](4-gameplay/farming.md)
-* [🔥 Burn to Shine](4-gameplay/burn-to-shine.md)
 * [🛰️ Satellites](4-gameplay/satellites.md)
-* [🚢 Ships & Users TOPs](4-gameplay/ships-and-tops.md)
+* [🚢 Ships & Planets Skins Marketplaces](4-gameplay/ships-and-tops.md)
+* [🏆 Users Leaderboards (TOPs)](4-gameplay/user-leaderboards.md)
 
 ## Brands Invasion
 * [👾 Brands Invasion](5-brands-invasion/README.md)
@@ -32,6 +33,7 @@
 ## Roadmap
 * [🏁 Presale](7-roadmap/presale.md)
 * [🗺️ Roadmap](7-roadmap/README.md)
+* [🚀 How the Platform Will Become Massive?](7-roadmap/platform-growth.md)
 
 ## Team & Technology
 * [👥 Team](8-team-technology/team.md)

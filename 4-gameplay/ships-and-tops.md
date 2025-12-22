@@ -1,4 +1,4 @@
-# 🚢 Ships & Users TOPs
+# 🚢 Ships & Planets Skins Marketplaces
 
 ## Ship Development
 
@@ -9,37 +9,43 @@ Your Ship is your avatar for navigating the physical space of the Neververse. Wh
 *   **Transport:** Carry Satellites to drop on other planets.
 *   **Discovery:** Find hidden "Nuggets" (Season 4).
 
-### Customization (Skins Marketplace)
-*   **Ship Models:** Different hulls and designs.
-*   **Skins:** Exclusive visual upgrades to stand out in the void.
-*   **Marketplace:** Buy and sell skins for SNOVA.
+---
+
+## Ship Upgrades & Customization
+
+### Ship Models Showcase
+In Season 3, we introduce **8 first Ship models** with unique designs and characteristics. New models will be regularly added to expand the variety and customization options available to players.
+
+### Ship Customization: Skins Marketplace
+The Skins Marketplace opens in Season 3, allowing you to:
+*   **Purchase Exclusive Skins:** Buy unique visual upgrades to stand out in the void.
+*   **Sell Your Creations:** Create and sell Ship Skins to other users.
+*   **Earn SNOVA:** Monetize your creative designs through the marketplace.
 
 ---
 
-## User TOPs (Leaderboards)
+## Planet Customization: 3D Skins Marketplaces
 
-Competition is a key driver of the Neververse. We track and celebrate the most active and successful players.
+### 3D Skins Marketplaces Introduced
+Planet customization takes creativity to the next level with 3D Skins Marketplaces:
 
-### Categories (Daily / Weekly / Monthly / Yearly)
-1.  **Top GODs:** The most popular and impressive 100% Bright Stars.
-2.  **Top GIFs:** The most collected and shared memes.
-3.  **Top Star:** The highest SNOVA production systems.
+*   **Create 3D Low Poly Planet Skins:** Design unique visual styles for planets.
+*   **Limited NFT-Drops:** Sell your creations as limited NFT-drops to other users.
+*   **Earn SNOVA:** Monetize your 3D designs and creative work.
+*   **Branded Planets (Season 4):** When Brands appear on the Platform in Season 4, creators will design branded Planets for Brand Campaigns.
 
-> [!INFO]
-> **Social Proof**
-> Being in the TOPs isn't just for vanity; it attracts more visitors (Satellites), which in turn boosts your farming further. It's a positive feedback loop.
+### Endless Creative Expression
 
----
+**For Creators:**
+*   Design and sell 2D Ship Skins
+*   Create and sell 3D Low Poly Planet Skins
+*   Build your creative portfolio in the Neververse
+*   Earn SNOVA through your artistic contributions
 
-## The User Joys
+**For Star-Holders:**
+*   Customize your Ships with unique Skins
+*   Transform your Planets with 3D Skins
+*   Express your personal style and creativity
+*   Create your own cozy and vivid world
 
-Why do we play? The Neververse is designed to trigger specific joy receptors:
-
-*   **Surprise:** Waking up to new GIFs (Incoming Satellites) every day.
-*   **Joy of Sharing:** Dropping Satellites and leaving messages.
-*   **Strategy:** Optimizing Brightness, activating planets, and managing farming efficiency.
-*   **Evolving:** Watching your Star grow and your Ship upgrade.
-*   **Showing Off:** Customizing your Ship and Planet skins.
-*   **Competition:** Fighting for the TOP spots and Brand Portals (Season 5).
-*   **Treasure Hunting:** Finding Brand Nuggets across the universe.
-*   **Real Prizes:** Winning physical rewards from Real Brands.
+The marketplace creates a thriving creative ecosystem where users can express themselves creatively while earning rewards, and Star-Holders can enjoy the joy of owning personalized, unique assets that bring them satisfaction and attract other users to gaze, interact, and gain perks.
