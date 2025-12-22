@@ -31,9 +31,9 @@
 * [📊 SNOVA Emission Curve](6-tokenomics/emission-curve.md)
 
 ## Roadmap
-* [🏁 Presale](7-roadmap/presale.md)
 * [🗺️ Roadmap](7-roadmap/README.md)
 * [🚀 How the Platform Will Become Massive?](7-roadmap/platform-growth.md)
+* [🏁 Presale](7-roadmap/presale.md)
 
 ## Team & Technology
 * [👥 Team](8-team-technology/team.md)
