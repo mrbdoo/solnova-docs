@@ -27,7 +27,7 @@ How much SNOVA does a Star generate?
 The model below shows how much SNOVA Stars of different rarity generate:
 
 | NFT | Rarity | defaultFarmingCapacity, SNOVA | av. FarmingCoefficient | FullBrightnessBoost | av. PlanetFarmingCoefficient | SatelliteBoost | av. MaxPlanets | av. MaxStarFarmingCapacity, SNOVA /h | av. Generated daily, SNOVA | av. Generated monthly by NFT 1, SNOVA | Price of 100% Brightnes the star (= 3 months of farming) |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Common | 60.00% | 0.1 | 1 | 2 | 1.05 | 2 | 4 | 1.7 | 40.3 | 1,250 | 3,750 |
 | Uncommon | 24.00% | 0.1 | 1.3 | 2 | 1.15 | 2 | 6 | 3.6 | 86.1 | 2,669 | 8,008 |
 | Rare | 10.00% | 0.1 | 1.5 | 2 | 1.25 | 2 | 9 | 6.8 | 162.0 | 5,022 | 15,066 |
