@@ -31,8 +31,8 @@ The model below shows how much SNOVA Stars of different rarity generate:
 | Common | 60.00% | 0.1 | 1 | 2 | 1.05 | 2 | 4 | 1.7 | 40.3 | 1,250 | 3,750 |
 | Uncommon | 24.00% | 0.1 | 1.3 | 2 | 1.15 | 2 | 6 | 3.6 | 86.1 | 2,669 | 8,008 |
 | Rare | 10.00% | 0.1 | 1.5 | 2 | 1.25 | 2 | 9 | 6.8 | 162.0 | 5,022 | 15,066 |
-| Epic | 5.50% | 0.1 | 1.8 | 2 | 1.35 | 2 | 12 | 11.7 | 279.9 | 8,678 | 26,034 |
-| Legendary | 0.50% | 0.1 | 2.25 | 2 | 1.45 | 2 | 17 | 22.2 | 532.4 | 16,506 | 49,517 |
+| Epic | 5.00% | 0.1 | 1.8 | 2 | 1.35 | 2 | 12 | 11.7 | 279.9 | 8,678 | 26,034 |
+| Legendary | 1.00% | 0.1 | 2.25 | 2 | 1.45 | 2 | 17 | 22.2 | 532.4 | 16,506 | 49,517 |
 
 ## Farming Impact Factors
 *   **NFT-Given Rarity:** Higher rarity = Higher coefficients and more Max Planets.
